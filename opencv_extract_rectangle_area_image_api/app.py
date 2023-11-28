@@ -47,4 +47,4 @@ def extract():
         return jsonify({'msg': 'Method not allowed'}), 405
     
 if __name__ == '__main__':
-    app.run('0.0.0.0', 8000, True)
+    app.run('0.0.0.0', 8000, False)
