@@ -1,3 +1,8 @@
+- [Extract](#extract)
+  - [Rectangle not found](#rectangle-not-found)
+  - [Invalid image](#invalid-image)
+
+
 # Extract
 
 The red rectangle must be between the colors #FF0000 [RGB(255, 000, 000)] and #F00000 [RGB(240, 000, 000)], otherwise the extraction will fail.
