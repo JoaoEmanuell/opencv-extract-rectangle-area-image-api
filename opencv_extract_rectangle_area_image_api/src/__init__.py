@@ -1,0 +1,1 @@
+from .extract_red_rectangle import extract_red_rectangle

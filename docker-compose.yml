@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+  opencv-extract-rectangle-area-image-api:
+      build: .
+      volumes:
+          - .:/usr/src/app
+      ports:
+          - '8000:8000'
+      restart: always
+      command: tail -F anything
