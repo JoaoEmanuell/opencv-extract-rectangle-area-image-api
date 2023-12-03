@@ -5,7 +5,7 @@
 
 # Extract
 
-The red rectangle must be between the colors #FF0000 [RGB(255, 000, 000)] and #F00000 [RGB(240, 000, 000)], otherwise the extraction will fail.
+The red rectangle must be between the colors #FF0000 [RGB(255, 000, 000)] and #C80000 [RGB(200, 000, 000)], otherwise the extraction will fail.
 
 To extract the red rectangle from the image, access the */extract* route using the **POST** method.
 

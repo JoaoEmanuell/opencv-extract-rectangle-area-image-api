@@ -5,7 +5,7 @@
 
 # Extrair
 
-O retângulo vermelho deve estar entre as cores #FF0000 [RGB(255, 000, 000)] e #F00000 [RGB(240, 000, 000)], caso contrário a extração irá falhar.
+O retângulo vermelho deve estar entre as cores #FF0000 [RGB(255, 000, 000)] e #C80000 [RGB(200, 000, 000)], caso contrário a extração irá falhar.
 
 Para fazer a extração do retângulo vermelho da imagem, acesse a rota */extract* usando o método **POST**.
 
